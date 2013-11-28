@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[uwl]]></name>
+    <description><![CDATA[uwl overlay]]></description>
+    <homepage>https://github.com/lexa-uw/gentoo-layman</homepage>
+    <owner>
+      <email>odin450@gmail.com</email>
+    </owner>
+    <source type="git">https://github.com/lexa-uw/gentoo-layman.git</source>
+  </repo>
+</repositories> 
