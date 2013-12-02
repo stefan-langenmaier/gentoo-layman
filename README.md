@@ -21,5 +21,5 @@ Then you need to fetch layman overlays list with
 
 And then you can add overlay:
 
-    sudo layman -a phpdaemon
+    sudo layman -a uwl
 
